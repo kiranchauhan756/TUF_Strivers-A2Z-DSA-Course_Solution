@@ -13,8 +13,8 @@ Input: n = 14
 Output: 2
 Explanation: There are 2 digits in 14.
 
+*/
 
- */
 public class Count_All_Digits_Of_Number {
     public static int countDigit(int n) {
         int count =0;
